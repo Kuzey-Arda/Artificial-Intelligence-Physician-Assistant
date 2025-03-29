@@ -38,11 +38,6 @@ def analyze_image(image, soru, api_key):
 
 # Özel CSS stilleri
 theme_css = """
-    body {
-        background: linear-gradient(135deg, #667eea, #764ba2);
-        font-family: 'Poppins', sans-serif;
-        color: white;
-    }
     .gradio-container {
         padding: 30px;
         background: rgba(255, 255, 255, 0.1);
