@@ -4,3 +4,5 @@ This project is a physician assistant to help doctors in the diagnostic phase. B
 It is a project designed for doctors to select the diseases that they can consider at the forefront according to their own opinions and continue further research. Thanks to this program, more preliminary diagnoses can be identified and a faster and better diagnosis can be made.
 
 You can also follow me on my Hugging Face account.
+
+Used Libraries: Gradio, Google GenAI, PIL, Agents
