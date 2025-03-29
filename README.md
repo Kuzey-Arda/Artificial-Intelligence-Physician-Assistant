@@ -6,3 +6,5 @@ It is a project designed for doctors to select the diseases that they can consid
 Used Libraries: Gradio, Google GenAI, PIL
 
 You can also follow me on my Hugging Face account.
+
+![Logo](./images/image.png)
