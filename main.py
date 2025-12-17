@@ -3,7 +3,7 @@ import google.generativeai as genai
 from PIL import Image
 
 # API yapılandırması
-model = genai.GenerativeModel("gemini-2.0-flash")
+model = genai.GenerativeModel("gemini-2.5-flash")
 
 instruction = "You are a Physician Assistant. Your name is David. You are 30 years old. You are a human being. Explain the questions asked from a medical point of view in a technical way that a doctor would explain. "
 history = ""
@@ -91,3 +91,4 @@ with gr.Blocks(css=theme_css, theme=gr.themes.Soft()) as demo:
 
 if __name__ == "__main__":
     demo.launch()
+
